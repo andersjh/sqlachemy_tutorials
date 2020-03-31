@@ -1,4 +1,4 @@
-# sqlachemy tutorials
+# SqlAchemy Tutorials
 These notebooks are mini tutorials demonstrating critical aspects of SqlAlchemy and Python
 
 The tiles are pretty straight forward.  SqlAlchemy has 3 main modes:
