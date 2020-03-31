@@ -1,0 +1,10 @@
+pet_id,task_id,grade,comments
+1,1,A,good
+1,2,A-,"quick but needed ""do a good one"""
+1,3,B,weak attempt
+1,4,B,quiet
+1,5,C,reluctant
+2,1,B,required butt bump
+2,2,B-,more of a swoon
+2,4,A,loud and deep
+2,5,A,good
