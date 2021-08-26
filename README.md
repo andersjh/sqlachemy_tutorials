@@ -13,3 +13,5 @@ SQLite is the database used and the example files are included.
 The zip install of DB BRowswer is included for visual interaction with SQLite databases
 
 Unzip the folder and create a shortcut to "DB Browser for SQLite.exe".  This is so you can view the database files.  Though it is strictly not necessary for the examples.
+
+ORM can be awesome.  All you have to do is change the connect string in your [create_engine](https://docs.sqlalchemy.org/en/14/core/engines.html) and all your database code just works!
